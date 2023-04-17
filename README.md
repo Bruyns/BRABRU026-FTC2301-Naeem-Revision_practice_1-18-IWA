@@ -16,10 +16,10 @@ revision of past finished challenges to get a refresher on topics covered
 
 ## topics covered in each IWA module
 ### IWA-1
-* 
-* 
-* 
-* 
+* how to output strings to the terminal using console.log
+* how to create comments in javascript 
+* how to create multi line comments in javascript that span more then 2 lines
+* how to use varibales and strings to output messages in console.log
 ### IWA-2
 * 
 * 
