@@ -44,18 +44,18 @@ checkin = selector(checkin)
 
 checkin.0.color = none
 status.0.style.color = STATUS_MAP.status.color = 
-reserve.0 = STATUS_MAP.status.canReserver ? 'enabled' : 'disabled'
+reserve.0 = STATUS_MAP.status.canReserve ? 'enabled' : 'disabled'
 checkout.0 = STATUS_MAP.status.canCheckout ? 'enabled' : 'disabled'
 checkin.0 = STATUS_MAP.status.canCheckIn ? 'enabled' : 'disabled'
 
 checkin.1.color = none
 status.1.style.color = STATUS_MAP.status.color
-reserve.1 = STATUS_MAP.status.canReserver ? 'enabled' : 'disabled'
+reserve.1 = STATUS_MAP.status.canReserve ? 'enabled' : 'disabled'
 checkout.1 = STATUS_MAP.status.canCheckout ? 'enabled' : 'disabled'
 checkin.1 = STATUS_MAP.status.canCheckIn ? 'enabled' : 'disabled'
 
 checkin.2.color = none
 status.2.style.color = STATUS_MAP.status.color
-reserve.2 = STATUS_MAP.status.canReserver ? 'enabled' : 'disabled'
+reserve.2 = STATUS_MAP.status.canReserve ? 'enabled' : 'disabled'
 checkout.2 = STATUS_MAP.status.canCheckout ? 'enabled' : 'disabled'
 checkin.2 = STATUS_MAP.status.canCheckIn ? 'enabled' : 'disabled'
