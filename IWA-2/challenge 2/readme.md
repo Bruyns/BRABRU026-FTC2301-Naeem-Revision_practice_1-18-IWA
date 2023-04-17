@@ -12,3 +12,8 @@ const date = '10/07/2014'
 
 console(date)
 ```
+
+## what is wrong with the above code
+* the multi-line comment on ln8-10 is missing a second astrix at the comments beginning
+  ln13 is missing the log function causing it to not properly console.log the date
+* the code is meant to console.log the date without it clashing with the comments above the const

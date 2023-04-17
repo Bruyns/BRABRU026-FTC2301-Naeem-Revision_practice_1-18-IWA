@@ -41,3 +41,12 @@ document.querySelector('footer').innerText = message
 	<footer>Loading...</footer>
 </html>
 ```
+## Why does the code not work?
+* the configuration.js script is not properly exporting its funstions to the main script
+  the main .js script is incorrectly linked in the html
+## What changes do you need to make to achieve the intended behaviour?
+* create a 2nd .js file with the confiurations code inside than properly export it to the script.js file
+  then import the code being exported from configuration.js so that it can be recognized in the script.js file correctly
+* dont forget to state src="script.js" type="module" when using the import/export feature in javascript
+Are there any other ways in which it can be been solved?
+* their are ways to shorten the code instead of listing all the import and exports individually

@@ -20,3 +20,10 @@ console.warn(Security scan starting)
 
 cnosole.info('Please wait for scan to complete before closing the browser.)
 ```
+
+## what is wrong with the above code
+* the multi line comment is incorrectly typed and is inputed as a single line comment.
+  the second comment as an incorrectly placed astrix placed at ln19:69 that is including the console log into the comment,
+  console.warn at ln17 is not correct javascript syntax and wont display the inside string
+   the string inside ln17 is written as a variable and not as a string
+   ln21 is spelt incorrectly and also written as a syntax error
