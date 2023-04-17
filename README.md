@@ -1,6 +1,19 @@
 # IWA_revision-practice
 revision of past finished challenges to get a refresher on topics covered
 
+
+## javacript terminology 
+* primitives
+* booleans
+* concatination
+* interpolation
+* DOM (document object module)
+* objects
+* numbers
+* strings 
+* literals
+
+
 ## topics covered in each IWA module
 ### IWA-1
 * 

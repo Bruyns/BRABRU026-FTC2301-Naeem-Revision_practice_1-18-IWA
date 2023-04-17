@@ -181,3 +181,8 @@ console.log('{lastDay}/{lastMonth}/{currentYear}')
 const randomHoliday = holidays[Math.random]
 console.log(randomHoliday.date)
 ```
+
+## what are my thoughts on my solution
+### which parts of the code was not working?
+* can not read the name properties. my understanding is that it is in the object but is placed
+  after the futureId const which breaks the object sequencing.
