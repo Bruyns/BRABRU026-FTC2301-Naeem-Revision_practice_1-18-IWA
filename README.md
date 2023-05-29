@@ -12,6 +12,12 @@ revision of past finished challenges to get a refresher on topics covered
 * numbers
 * strings 
 * literals
+* template literals
+* global scope
+* local scope
+* higher order functions
+* arrow functions
+* 
 
 
 ## topics covered in each IWA module
