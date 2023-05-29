@@ -1,13 +1,9 @@
-IWA_10.2: Challenge 1
-The following code revisits a previous exercise.
+# IWA_10.2: Challenge 1
+* The following code revisits a previous exercise.
 
- 
+* However, in this specific example, various South African public holidays are stored as nested sub-objects in a holidays object. Each holiday is assigned a number from 0 to 8 as a unique key identifier.
 
-However, in this specific example, various South African public holidays are stored as nested sub-objects in a holidays object. Each holiday is assigned a number from 0 to 8 as a unique key identifier.
-
- 
-
-Before doing anything, the code should check whether an item has been assigned to the 9 key, if so, it should log the name of the holiday. If nothing has been assigned yet, then the following should be logged:
+* Before doing anything, the code should check whether an item has been assigned to the 9 key, if so, it should log the name of the holiday. If nothing has been assigned yet, then the following should be logged:
 
  
 
